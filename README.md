@@ -8,9 +8,9 @@ credit to:
 - Anyone who wants to share a check :)
 ### When is this app applicable?
 - Having meals with friends or family, Buying things together... and a lot more ~
-### How can user use this app?
+### How can user use this app? (Demo Video Below)
 [![Demo Video](https://img.youtube.com/vi/7df22bI3hK8/0.jpg)](https://youtu.be/7df22bI3hK8)
-
+---
 ## Code Implementation
 ```Swift
 import SwiftUI
